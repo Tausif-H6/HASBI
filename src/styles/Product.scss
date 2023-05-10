@@ -1,0 +1,20 @@
+.product{
+    height: 25rem;
+    width: 20rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    background-color: black;
+    color: white;
+
+>img{
+    height: 18rem;
+    width: 20rem;
+}
+>.description{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  column-gap: 1rem;
+}    
+}
+

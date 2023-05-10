@@ -1,0 +1,51 @@
+export const PRODUCTS =[
+{
+    id:1,
+    productName:"T-shirt",
+    price:1000,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/345593316_209506241857149_7951242073575941903_n.jpg?stp=dst-jpg_p843x403&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEzskBuwriE8KLo2VpQYKsFZOOqSsHBENxk46pKwcEQ3BOQ0eYcew-3FRw-kborkWpl4wOGWCqIkRTucahcj0eV&_nc_ohc=j32-2ELSnl8AX-fRvwY&_nc_ht=scontent.fdac13-1.fna&oh=00_AfBHJUmSEmdmB5_ZA7TkTBtXfNHR3mnNbQW_yknKVowtNw&oe=6460EB59",
+},
+{
+    id:2,
+    productName:"Jacket",
+    price:1000,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/318967313_5163824220385073_6603457028798636548_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEvYYIkflZd7SXgZdIHLeH8PC5RYHkIfSw8LlFgeQh9LPSJGarFYslgnTJVps_scGbQohMK7bzy1hfvx7-5tvNJ&_nc_ohc=46B1W1N3aOsAX98sUfz&_nc_oc=AQlp_59YMEgxwQpl4DMSCVKjT-OvYN50Ndz8uMjhgGWJMBkTOISvZFjF4Ui5HJYPxaw&_nc_ht=scontent.fdac13-1.fna&oh=00_AfDoasnKn1kq8Wt5Y8-OAJgOwsE5XEa_SRvkSVokPUFIxA&oe=645F724A",
+},
+{
+    id:3,
+    productName:"Complete Suit",
+    price:5000,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/260473169_202022365429155_4847655665760966901_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHvjW-We7Vaewued76ilI8zfErUMUDUlFJ8StQxQNSUUkn44Np5tOC97-PGbUMSjTHrkmgZC1sPNkG8MVra8FI4&_nc_ohc=DBmH1WCz_8wAX-38WAC&_nc_ht=scontent.fdac13-1.fna&oh=00_AfDmAZUntnnt5ndzJCzZYnCqmv_O9bD7TIneqH9xF2ufyA&oe=645FC7F4",
+},
+{
+    id:4,
+    productName:"Panjabi",
+    price:1500,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/337556593_1242536019981811_5795465660096753383_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHovfeGRgbpIBmwA46uso8murAEEyr5sH66sAQTKvmwfvwKmrUJTJYnQmS-K0vR0ONmpvZSlaC-5YN0Uv2LRVjN&_nc_ohc=rujMe34oKAkAX_xYQOj&_nc_ht=scontent.fdac13-1.fna&oh=00_AfD0jU0mIQJ5aNttvjgK_OZuNRcXQDigmpPqU_JLob08kw&oe=646112B7",
+},
+{
+    id:5,
+    productName:"Shirt",
+    price:1500,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/344839980_619103933422249_9219011478498837300_n.jpg?stp=dst-jpg_p843x403&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFNz0YkyFapjiLjxqxLCQz0t5Ow8XFD89e3k7DxcUPz17UBn9yJzduUg9Fk60IeTQrgBlHGrhZrOwCC52tbNEZ5&_nc_ohc=4OPc7XZwABkAX-4xOGi&_nc_ht=scontent.fdac13-1.fna&oh=00_AfAxF2YUW8CXroG-lcXKOlb59NCsmGX-DgOms0QEh640jA&oe=645FDA2C",
+},
+{
+    id:6,
+    productName:"Shirt",
+    price:1500,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/338420233_183842191099476_5236698825615106641_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGKU-PViFb28NvQVKY2Lp-rHoHRJ5xWDNMegdEnnFYM0zIvJ1zwu0X2OMjJRf8XWO2083WTHO39B9y-bL2lR2Ut&_nc_ohc=9U7Hj_9uHQIAX-OunoS&_nc_ht=scontent.fdac13-1.fna&oh=00_AfCa4Lp5TxXWhvsZuvslhp_S3Gd8PEAF_fuhFqj5KAzMPw&oe=645F6521",
+},
+{
+    id:7,
+    productName:"Panjabi",
+    price:1500,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/296278397_351645973822158_1220664641444949148_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEDa7aC57X6kjUvTDDnuAICBy343KAlTdMHLfjcoCVN0xR6yfz2__JR2QLczNiebbV-xekbxv1SCHQCFGoOMRLt&_nc_ohc=iFvADXCndK8AX8vzPVW&_nc_ht=scontent.fdac13-1.fna&oh=00_AfAK7HI38UZTi9b2XgPPTlVJfNDPcbVGB7Flz5h2bN_gTw&oe=6460E4D7",
+},
+{
+    id:8,
+    productName:"Panjabi",
+    price:1500,
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/340165503_188341443980978_8082806724172402520_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFhJu0P0cYhN-gWFbb28cBb2kud1cn0vynaS53VyfS_KYctyFH06vsgWPxevJa4wVKfkM7s2RUK0XC7DWZJw9La&_nc_ohc=eT4XEJzHB5MAX9lCInp&_nc_ht=scontent.fdac13-1.fna&oh=00_AfCuJ6ZSJMWKUNMWhFRdhKv3ZvmWTRudWs963bPMLMQhYA&oe=6460098A",
+}
+
+];

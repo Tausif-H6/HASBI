@@ -1,0 +1,37 @@
+@import"Colors";
+nav{
+    width: 100vw;
+    display: flex;
+    background-color: rgb(228, 204, 71);
+    height: 15vh;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    position: sticky;
+
+    h1{
+        text-transform: uppercase;
+    }
+    a{
+        color: $second;
+        text-decoration: none;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
+    img{
+        height: 3rem;
+        width: 3rem;
+        border-radius: 50%;
+        animation: imgdown 0.7s linear infinite alternate;
+    }
+    &:hover{
+        color: $third;
+    }
+}
+
+
+@keyframes imgdown{
+    to{
+        transform: translate(-10px);
+    }
+}
