@@ -1,0 +1,37 @@
+.cartitem{
+    height: 25rem;
+    width: 20rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    background-color: black;
+    color: white;
+    margin-top: 2rem;
+
+>img{
+    height: 18rem;
+    width: 20rem;
+}
+>.description{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  column-gap: 1rem;
+}    
+}
+
+.countHandler{
+  text-align: center;
+  cursor: pointer;
+  >input{
+    text-align: center;
+    font-weight: bolder;
+    width: 40px;
+  }
+  >button{
+    font-size: 13px;
+    width: 16px;
+    height: 18px;
+    background-color: black;
+    color: white;
+  }
+}

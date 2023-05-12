@@ -28,6 +28,12 @@ nav{
         color: $third;
     }
 }
+.bag{
+   >img{
+    height: 3rem;
+        width: 3rem;
+   }
+}
 
 
 @keyframes imgdown{

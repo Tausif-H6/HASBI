@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import ShoppingBasketIcon from "@mui/icons-material/ShoppingBasket";
 
 function Navbar() {
+
   return (
     <nav>
       <img
@@ -12,7 +13,9 @@ function Navbar() {
 
       <Link to="/">Home</Link>
       <Link to="/Contact">Contact</Link>
+      <Link to="/cart">
       <ShoppingBasketIcon />
+      </Link>
     </nav>
   );
 }
