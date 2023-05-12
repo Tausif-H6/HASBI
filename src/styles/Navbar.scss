@@ -22,17 +22,11 @@ nav{
         height: 3rem;
         width: 3rem;
         border-radius: 50%;
-        animation: imgdown 0.7s linear infinite alternate;
+        animation: imgdown 2.7s linear infinite alternate;
     }
-    &:hover{
-        color: $third;
+    .MuiSvgIcon-root{
+        animation: vibrate 6.1s infinite;
     }
-}
-.bag{
-   >img{
-    height: 3rem;
-        width: 3rem;
-   }
 }
 
 
@@ -41,3 +35,21 @@ nav{
         transform: translate(-10px);
     }
 }
+
+@keyframes vibrate {
+    0% {
+      transform: translate(-2px, -2px);
+    }
+    25% {
+      transform: translate(2px, 2px);
+    }
+    50% {
+      transform: translate(2px, -2px);
+    }
+    75% {
+      transform: translate(-2px, 2px);
+    }
+    100% {
+      transform: translate(-2px, -2px);
+    }
+  }
