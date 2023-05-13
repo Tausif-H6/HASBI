@@ -7,9 +7,9 @@ export const PRODUCTS =[
 },
 {
     id:2,
-    productName:"Jacket",
+    productName:"T-shirt",
     price:1000,
-    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/318967313_5163824220385073_6603457028798636548_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEvYYIkflZd7SXgZdIHLeH8PC5RYHkIfSw8LlFgeQh9LPSJGarFYslgnTJVps_scGbQohMK7bzy1hfvx7-5tvNJ&_nc_ohc=46B1W1N3aOsAX98sUfz&_nc_oc=AQlp_59YMEgxwQpl4DMSCVKjT-OvYN50Ndz8uMjhgGWJMBkTOISvZFjF4Ui5HJYPxaw&_nc_ht=scontent.fdac13-1.fna&oh=00_AfDoasnKn1kq8Wt5Y8-OAJgOwsE5XEa_SRvkSVokPUFIxA&oe=645F724A",
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/345593316_209506241857149_7951242073575941903_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEzskBuwriE8KLo2VpQYKsFZOOqSsHBENxk46pKwcEQ3BOQ0eYcew-3FRw-kborkWpl4wOGWCqIkRTucahcj0eV&_nc_ohc=bGaUJsywo8gAX9gg4u7&_nc_ht=scontent.fdac13-1.fna&oh=00_AfDo5UsZD1kSVLc_fJ7_XU4acoDxIMjtG9yzg0Okct1e3g&oe=6464DFD9",
 },
 {
     id:3,
