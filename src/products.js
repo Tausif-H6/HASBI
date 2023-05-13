@@ -3,7 +3,7 @@ export const PRODUCTS =[
     id:1,
     productName:"T-shirt",
     price:1000,
-    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/345593316_209506241857149_7951242073575941903_n.jpg?stp=dst-jpg_p843x403&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEzskBuwriE8KLo2VpQYKsFZOOqSsHBENxk46pKwcEQ3BOQ0eYcew-3FRw-kborkWpl4wOGWCqIkRTucahcj0eV&_nc_ohc=j32-2ELSnl8AX-fRvwY&_nc_ht=scontent.fdac13-1.fna&oh=00_AfBHJUmSEmdmB5_ZA7TkTBtXfNHR3mnNbQW_yknKVowtNw&oe=6460EB59",
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/345661801_915930656305990_8491993852523987279_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG7cJczYcJUHnkOpBhTlkz5VLgqNWzZB55UuCo1bNkHnsj6yqnj9Be2Sb61YrdhbJDMzh1EaTbEjjbumu2d_wMD&_nc_ohc=SMzd-F-lNigAX9ZFioQ&_nc_ht=scontent.fdac13-1.fna&oh=00_AfAsT4X-VaoHvtjuDj9EEsgZStwxsXptaHctoC-uEIxePw&oe=6464F51C",
 },
 {
     id:2,
@@ -33,7 +33,7 @@ export const PRODUCTS =[
     id:6,
     productName:"Shirt",
     price:1500,
-    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/338420233_183842191099476_5236698825615106641_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGKU-PViFb28NvQVKY2Lp-rHoHRJ5xWDNMegdEnnFYM0zIvJ1zwu0X2OMjJRf8XWO2083WTHO39B9y-bL2lR2Ut&_nc_ohc=9U7Hj_9uHQIAX-OunoS&_nc_ht=scontent.fdac13-1.fna&oh=00_AfCa4Lp5TxXWhvsZuvslhp_S3Gd8PEAF_fuhFqj5KAzMPw&oe=645F6521",
+    productImage:"https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/338420233_183842191099476_5236698825615106641_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGKU-PViFb28NvQVKY2Lp-rHoHRJ5xWDNMegdEnnFYM0zIvJ1zwu0X2OMjJRf8XWO2083WTHO39B9y-bL2lR2Ut&_nc_ohc=e_xaGpTlGzQAX9-WVF-&_nc_ht=scontent.fdac13-1.fna&oh=00_AfCyrXvpqZR3V0YZcUIyjKwIBIzc1Gdsi1tDqBi29wzq1g&oe=646553E1",
 },
 {
     id:7,
